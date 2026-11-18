@@ -86,8 +86,8 @@ namespace ConsoleApp1
             WriteColor("╚═══════════════════════════════════════════════════════════════╝\n", ConsoleColor.Cyan);
             Console.WriteLine();
             WriteColor("   1. ", ConsoleColor.Yellow); Console.WriteLine("ЛР № 1  — Вывод в многозначных логиках");
-            WriteColor("   2. ", ConsoleColor.Yellow); Console.WriteLine("ЛР № 2  — Исследование ⊥-исчисления (ДНФ и КНФ)");
-            WriteColor("   3. ", ConsoleColor.Yellow); Console.WriteLine("ЛР № 3  — Программирование в ∨-функциях (Карты Карно)");
+            WriteColor("   2. ", ConsoleColor.Yellow); Console.WriteLine("ЛР № 2  — Исследование у - исчисления (ДНФ и КНФ)");
+            WriteColor("   3. ", ConsoleColor.Yellow); Console.WriteLine("ЛР № 3  — Программирование в V - функциях (Карты Карно)");
             WriteColor("   4. ", ConsoleColor.Yellow); Console.WriteLine("ЛР № 4  — Исследование алгебраических законов логики");
             WriteColor("   5. ", ConsoleColor.Yellow); Console.WriteLine("ЛР № 5  — Разработка алгоритмов в интуиционистской логике");
             WriteColor("   6. ", ConsoleColor.Yellow); Console.WriteLine("ЛР № 6  — Исследование модальных логик (Сумматор Жегалкина)");
